@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Tiro+Telugu&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  padding: 3rem;
+  font-family: "Tiro Telugu", serif;
+  line-height: 1.3;
+}
